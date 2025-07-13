@@ -1,9 +1,9 @@
 # Weather Data Exploration and Preprocessing Lab
 
-## Purpose
+## 1. Purpose
 The purpose of this lab was to explore, preprocess, and analyze a real-world weather dataset using Python and Jupyter Notebook. This included cleaning the data, visualizing important patterns, and applying basic statistical methods to understand the underlying trends in historical weather data.
 
-## Key Insights
+## 2. Key Insights
 
 - **Temperature Trends:**
   A line plot of temperature over time revealed clear fluctuations, suggesting seasonal or diurnal changes. The temperature exhibited patterns that align with common weather cycles.
@@ -20,7 +20,7 @@ The purpose of this lab was to explore, preprocess, and analyze a real-world wea
 - **Central Tendency & Dispersion:**
   The calculated mean and median provided a solid sense of average weather conditions. Standard deviation and IQR helped quantify variability in temperature and humidity.
 
-## Challenges and Decisions
+## 3. Challenges and Decisions
 
 - **Missing Values in 'Precip Type':**
   Some entries lacked precipitation type. These were filled using the mode of the column to preserve data size while maintaining consistency.
@@ -34,7 +34,7 @@ The purpose of this lab was to explore, preprocess, and analyze a real-world wea
 - **Visualization Constraints:**
   Due to performance limitations, only a subset of the data (e.g., 500 rows) was used in visualizations such as time series plots for clarity and speed.
 
-## Tools Used
+## 4. Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebook
