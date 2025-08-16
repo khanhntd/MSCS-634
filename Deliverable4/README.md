@@ -96,4 +96,4 @@ This project demonstrates how combining **classification, clustering, and associ
 - Segment customers for personalized strategies.
 - Uncover product co-purchasing behavior for effective cross-selling.
 
-These insights can directly inform **marketing strategies, product bundling, and customer engagement** initiatives.  
+These insights can directly inform **marketing strategies, product bundling, and customer engagement** initiatives.
